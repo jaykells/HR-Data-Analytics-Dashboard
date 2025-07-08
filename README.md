@@ -48,7 +48,7 @@ This Power BI project was developed to analyze HR metrics and support strategic 
 
 ## 📸 Visuals Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](Screenshot.png)
 
 ---
 
